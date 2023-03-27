@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pong-Game.iml" filepath="$PROJECT_DIR$/.idea/Pong-Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PongGameClient/PongGameClient.iml" filepath="$PROJECT_DIR$/PongGameClient/PongGameClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PongGameTCPServer/PongGameTCPServer.iml" filepath="$PROJECT_DIR$/PongGameTCPServer/PongGameTCPServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PongGameUDPServer/PongGameUDPServer.iml" filepath="$PROJECT_DIR$/PongGameUDPServer/PongGameUDPServer.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PongGame.UDPServer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PongGameUDPServer/dist/PongGame.UDPServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

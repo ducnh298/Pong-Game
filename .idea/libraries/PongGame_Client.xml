@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PongGame.Client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PongGameClient/dist/PongGame.Client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

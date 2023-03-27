@@ -1,0 +1,23 @@
+
+t
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù“àèøÿÿÿÿ
+t
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù“àèøÿÿÿÿ
+†
+java:S1319^"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(´ùôÊ
+Q	java:S1257"<This block of commented-out lines of code should be removed.(†€éˆ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(†€éˆ
+B
+java:S1874O",Remove this use of "stop"; it is deprecated.(Òƒ¬ë
+Q	java:S125V"<This block of commented-out lines of code should be removed.(†€éˆ
+i
+java:S3776h"SRefactor this method to reduce its Cognitive Complexity from 214 to the 15 allowed.(“–ış
+P
+java:S1161h":Add the "@Override" annotation above this method signature(“–ış
+f
+java:S6201m"KReplace this instanceof check and cast with 'instanceof ObjectWrapper data'(×áú÷ùÿÿÿÿ
+M
+java:S3972r"7Move this "if" to a new line or add the missing "else".(Œâ‰¥
+g	java:S128Â"LEnd this switch case with an unconditional break, return or throw statement.(ı°Ïˆüÿÿÿÿ
+<	java:S131~""Add a default case to this switch.(È¯ÁÍùÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(Ô«ğ şÿÿÿÿ

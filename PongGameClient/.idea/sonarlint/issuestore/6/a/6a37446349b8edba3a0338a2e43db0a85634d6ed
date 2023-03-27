@@ -1,0 +1,99 @@
+
+b
+java:S1192m"GDefine a constant instead of duplicating this literal "Tahoma" 8 times.(àı÷“úÿÿÿÿ
+…
+java:S1319D"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(èÑı
+†
+java:S1319L"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Úë’
+
+java:S1319È"jThe type of "playerList" should be an interface such as "List" rather than the implementation "ArrayList".(ÈÁ¨ä
+ƒ
+java:S1319È"lThe type of "onlinePlayer" should be an interface such as "List" rather than the implementation "ArrayList".(ÈÁ¨ä
+ƒ
+java:S1319È"lThe type of "inGamePlayer" should be an interface such as "List" rather than the implementation "ArrayList".(ÈÁ¨ä
+C
+java:S1604t"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿ
+>
+java:S1604|"(Make this anonymous inner class a lambda(ÿóÎ×
+>
+java:S1604„"(Make this anonymous inner class a lambda(¥Šîj
+D
+java:S1604¢"(Make this anonymous inner class a lambda(üåêøÿÿÿÿ
+D
+java:S1604ª"(Make this anonymous inner class a lambda(‹ıÉ¼üÿÿÿÿ
+D
+java:S1604±"(Make this anonymous inner class a lambda(Åûÿ¾øÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+u
+java:S1450—"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶8Õ”ºˆò0
+n
+java:S1450˜"WRemove the "jButton2" field and declare it as a local variable in the relevant methods.(¤½ÃÜ
+s
+java:S1450™"WRemove the "jButton3" field and declare it as a local variable in the relevant methods.(ĞäğËıÿÿÿÿ
+s
+java:S1450š"WRemove the "jButton4" field and declare it as a local variable in the relevant methods.(€„ˆÎÿÿÿÿÿ
+s
+java:S1450›"WRemove the "jButton5" field and declare it as a local variable in the relevant methods.(â¦Î©ûÿÿÿÿ
+n
+java:S1450œ"WRemove the "jButton6" field and declare it as a local variable in the relevant methods.(á®İş
+r
+java:S1450"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+~
+java:S1450 "[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ8Ú”ºˆò0
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(Ø–¿ƒúÿÿÿÿ
+U
+java:S1161h":Add the "@Override" annotation above this method signature(¦³±ÿÿÿÿÿ
+Q
+java:S1161—":Add the "@Override" annotation above this method signature(†ŒË³
+F
+java:S1172ù"*Remove this unused method parameter "evt".(¹¾ûüÿÿÿÿ
+@
+java:S1172„"*Remove this unused method parameter "evt".(Š–ÿG
+H
+java:S1172‘"*Remove this unused method parameter "evt".(‚À‡ä8Úû¹ˆò0
+9
+java:S3626·"Remove this redundant jump.(ûÁİ…8••ºˆò0
+G
+java:S1172°"*Remove this unused method parameter "evt".(³à¿h8–•ºˆò0
+H
+java:S1172À"*Remove this unused method parameter "evt".(™ÃŠñ8™•ºˆò0
+H
+java:S1172Ì"*Remove this unused method parameter "evt".(è¿é¦8œ•ºˆò0
+M
+java:S1172Ø"*Remove this unused method parameter "evt".(ø¨Ì¾ûÿÿÿÿ8•ºˆò0
+u
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ìã”¡ùÿÿÿÿ8¡•ºˆò0
+J
+java:S1905ê",Remove this unnecessary cast to "ArrayList".(²ë˜ş8£•ºˆò0
+L
+java:S1905í")Remove this unnecessary cast to "Player".(ìô®ıÿÿÿÿ8¤•ºˆò0
+r
+java:S3981÷"OThe size of a collection is always ">=0", so update this test to use isEmpty().(Ç°¬”úÿÿÿÿ8¥•ºˆò0
+u
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(æÅ¾İûÿÿÿÿ8¨•ºˆò0
+G
+java:S1481“")Remove this unused "temp" local variable.(Õöğ±8®•ºˆò0
+V	java:S106ª"9Replace this use of System.out or System.err by a logger.(ó¸¾œ8³•ºˆò0
+a
+java:S1155«">Use isEmpty() to check whether the collection is empty or not.(Îªåóşÿÿÿÿ8´•ºˆò0
+a
+java:S1155«">Use isEmpty() to check whether the collection is empty or not.(Îªåóşÿÿÿÿ8´•ºˆò0
+a
+java:S1155µ">Use isEmpty() to check whether the collection is empty or not.(¸Ó®åûÿÿÿÿ8·•ºˆò0
+p
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÈÁ¨ä8»•ºˆò0
+a
+java:S1155Ï">Use isEmpty() to check whether the collection is empty or not.(¯§ÍÏüÿÿÿÿ8¾•ºˆò0
+\
+java:S1155×">Use isEmpty() to check whether the collection is empty or not.(ÎÖò8Á•ºˆò0
+M
+java:S1197õ"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8Æ•ºˆò0
+c
+java:S2147„"ECombine this catch with the one at line 514, which has the same body.(¨¦Š½8Ç•ºˆò0
+c
+java:S2147†"ECombine this catch with the one at line 514, which has the same body.(ã€ 8Ç•ºˆò0
+b
+java:S2147ˆ"ECombine this catch with the one at line 514, which has the same body.(ñÎ¯%8È•ºˆò0
