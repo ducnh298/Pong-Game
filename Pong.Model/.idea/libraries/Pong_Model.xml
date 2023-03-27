@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Pong.Model">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Pong.Model.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
