@@ -27,7 +27,8 @@ Trong phòng chờ, có thể mời bạn bè, khi cả 2 cùng sẵn sàng thì
 Kết quả chơi của màn chơi sẽ được lưu vào cơ sở dữ liệu của người chơi. 
 
 # Bạn bè (Friend)
-Người chơi có thể gửi lời mời kết bạn đến người chơi khác, nếu họ đồng ý 2 người sẽ trở thành bạn bè. Người chơi có thể hủy kết bạn. 
+Người chơi có thể gửi lời mời kết bạn đến người chơi khác, nếu họ đồng ý 2 người sẽ trở thành bạn bè. Người chơi cũng có thể từ chối lời mời kết bạn. 
+Người chơi có thể xem thông tin bạn bè và xóa bạn bè.
 
 # Hội nhóm (Clan)
 Người chơi có thể tạo hội nhóm và quản lý hội nhóm. 
