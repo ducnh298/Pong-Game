@@ -6,7 +6,7 @@
 - Nick name do người chơi đặt để hiển thị trong game là duy nhất.
 
 # Bảng chọn (Menu)
-- Sau khi đăng nhập, người dùng sẽ ở giao diện bảng chọn gồm các tính năng: Chơi, Danh sách người chơi online/offline/in-game, Bảng xếp hạng, Trang cá nhân, Bạn bè, - - Hội nhóm, Đăng xuất.
+- Sau khi đăng nhập, người dùng sẽ ở giao diện bảng chọn gồm các tính năng: Chơi, Danh sách người chơi online/offline/in-game, Bảng xếp hạng, Trang cá nhân, Bạn bè, Hội nhóm, Đăng xuất.
 
 # Danh sách người chơi online/offline/in-game
 - Hiển thị những người chơi đang online/offline/ingame.
@@ -19,7 +19,7 @@
 - Người chơi có thể tìm kiếm người chơi khác theo tên.
 
 # Trang cá nhân (User profile) 
- Mỗi người chơi sẽ có trang cá nhân để xem/chỉnh sửa thông tin cá nhân và xem tỉ lệ thắng của mình.
+ - Mỗi người chơi sẽ có trang cá nhân để xem/chỉnh sửa thông tin cá nhân và xem tỉ lệ thắng của mình.
 
 # Chơi (Play), Phòng chờ (Room)
 - Chơi tự do: Người chơi có thể tạo trận đấu mời bạn bè hoặc thách đấu 1 người chơi đang online. 
